@@ -1,4 +1,7 @@
 
+
+### link project : https://www.youtube.com/watch?v=f9qyXUhdyUo&ab_channel=Mukeshotwani
+
 # dependencies
 client
 server
@@ -7,7 +10,6 @@ Jenkins_home
 .pnp
 .pnp.js
 .jenkins.war
-.link.txt
 
 # misc
 .DS_Store
