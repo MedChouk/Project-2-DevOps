@@ -10,7 +10,7 @@ Jenkins_home
 .pnp
 .pnp.js
 .jenkins.war
-.gitignore
+.README.md
 
 # misc
 .DS_Store
