@@ -1,0 +1,17 @@
+
+#open cmd : 
+
+docker --version
+
+docker images
+
+docker ps -a
+
+docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v C:\Users\Chouk\Desktop\Project-2-DevOps\Jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk11
+
+http://localhost:8080/
+
+
+nom d'utilisateur : admin
+mot de passe : admin/12345
+nom complet : Super Admin
